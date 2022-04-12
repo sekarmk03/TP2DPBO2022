@@ -14,9 +14,9 @@ melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 ```
 
 ### Preview
-<video width="320" height="240" autoplay>
-  <source src="preview.mp4" type="video/mp4">
-</video>
+
+https://user-images.githubusercontent.com/81772600/162903346-d06ed9c8-c255-4c8e-b1a2-a8d47451961c.mp4
+
 
 #### Home Page
 <img src="preview1.png">
@@ -32,6 +32,7 @@ melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ### Database Design
 <img src="desain_db.png">
+Tabel Pengurus berelasi one to many dengan tabel Divisi dan Jabatan dimana 1 pengurus hanya dapat memiliki 1 divisi dan 1 jabatan, sedangkan 1 jabatan dan divisi dapat memiliki beberapa pengurus.
 
 ### Features
 - Dashboard daftar pengurus
