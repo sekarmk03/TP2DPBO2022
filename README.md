@@ -20,10 +20,13 @@ melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 #### Home Page
 <img src="preview1.png">
+
 #### Detail Page
 <img src="preview2.png">
+
 #### Divisi Page
 <img src="preview3.png">
+
 #### Jabatan Page
 <img src="preview4.png">
 
