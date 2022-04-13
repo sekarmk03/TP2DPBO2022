@@ -8,7 +8,7 @@ Repositori ini dibuat sebagai dokumentasi pengerjaan tugas praktikum 2 dalam mat
 
 ### PHP GUI with Multiple Tables
 ```
-Saya Sekar Madu Kusumawardani_2007703 mengerjakan Latihan Praktikum 4 dalam mata kuliah
+Saya Sekar Madu Kusumawardani_2007703 mengerjakan Tugas Praktikum 2 dalam mata kuliah
 Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak
 melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 ```
